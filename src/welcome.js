@@ -15,7 +15,7 @@ document.querySelector('#welcome').innerHTML = `
   </header>
 
   <section class="flex gap-1 items-center mt-6.5">
-    <a href="https://github.com/nousantx" class="btn"
+    <a href="https://github.com/nousantx/anyframe-vite-html-template" class="btn"
       ><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24">
         <!-- Icon from Iconoir by Luca Burgio - https://github.com/iconoir-icons/iconoir/blob/main/LICENSE -->
         <g
@@ -33,7 +33,7 @@ document.querySelector('#welcome').innerHTML = `
         </g></svg
     ></a>
     <button class="btn" id="theme-toggle"></button>
-    <a href="https://github.com/nousantx" class="btn"
+    <a href="https://github.com/anyframe-org/css" class="btn"
       ><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24">
         <!-- Icon from Iconoir by Luca Burgio - https://github.com/iconoir-icons/iconoir/blob/main/LICENSE -->
         <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5">
