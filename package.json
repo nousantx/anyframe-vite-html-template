@@ -1,5 +1,5 @@
 {
-  "name": "@nousantx/anyframe-template",
+  "name": "@nousantx/anyframe-html-template",
   "version": "1.0.0",
   "description": "Simple app built with vite and anyframe/css as styling",
   "author": "NOuSantx <nousantx@gmail.com>",
@@ -27,8 +27,7 @@
     "@anyframe/css": "0.1.3",
     "@tenoxui/moxie": "^0.4.1",
     "glob": "^11.0.1",
-    "vite": "^6.1.0",
-    "vite-plugin-anyframe": "0.2.1"
+    "vite": "^6.1.0"
   },
   "packageManager": "pnpm@10.4.0"
 }
